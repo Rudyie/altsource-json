@@ -53,13 +53,13 @@
   "news": [
     {
       "appID": "com.activision.skylanders.superchargers",
-      "caption": "Original AppStore page recreation now online",
+      "caption": "Original AppStore page recreation drives onto AltStore/SideStore",
       "date": "2025-01-01",
       "identifier": "sky-source",
       "imageURL": "https://imageio.forbes.com/blogs-images/andyrobertson/files/2015/06/Skylanders_SuperChargers_Key_Art_1433160843-1940x1552.jpg?format=jpg&width=1440",
       "notify": false,
       "tintColor": "fc4719",
-      "title": "Superchargers Drives in!"
+      "title": "Superchargers Kicks into Overdrive!"
     }
   ],
   "userInfo": {}
