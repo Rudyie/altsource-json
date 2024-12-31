@@ -1,0 +1,66 @@
+{
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.activision.skylanders.trapteam",
+      "developerName": "Toys for Bob",
+      "downloadURL": "https://archive.org/download/skylanders-trapteam-superchargers-ios-64bit-ipas/Trap%20Team/Trap%20Team%20v1.2.2%20%28iPhone%29.ipa",
+      "iconURL": "https://image.winudf.com/v2/image/Y29tLmFjdGl2aXNpb24uc2t5bGFuZGVycy50cmFwdGVhbV9pY29uXzE1MjYwMTc2NDhfMDM1/icon.webp?w=280&fakeurl=1&type=.webp",
+      "localizedDescription": "(this version only works on iPhone)\nCapture Evil. Unleash Good.\n\nGet the full Skylanders Trap Team™ console video game experience on your tablet! Now you can Bring the Skylanders to Life™, defeat villains and trap them wherever you go! Begin the adventure for FREE with TWO Digital Skylanders: Instant Snap Shot and Instant Food Fight & TWO Instant Traps. Then continue your adventure by buying the TABLET STARTER PACK.\n\nKaos has blown up the walls of the feared Cloudcracker Prison freeing the most notorious villains in Skylands. It’s up to you and the Skylanders to find and capture them. Using Traptanium™, a magic material that can harness the power of the Elements, you have the amazing ability to trap the villains and return them to Skylands to fight for you!\n\nTABLET STARTER PACK (available at your local or online retailer)\n\nBuy the all new TABLET STARTER PACK to continue the adventure with your Skylanders toys. The TABLET STARTER PACK includes:\n\n* All DIGITAL PACKS of the game to play on-the-go with 2 Digital Skylanders & 2 Digital Traps\n\n* Wireless Bluetooth® Traptanium Portal™\n\n* Wireless Bluetooth® Game Controller\n\n* Two Skylanders Figures\n\n* Two Traps\n\n* One Trap Collection Tray\n\n* One Character Collection Poster\n\n* Two Sticker Sheets with Secret Codes\n\n* Two Trading Cards\n\n* 5 AAA Batteries\n\nOVER 175 PLAYABLE CHARACTERS\n\n* Play as your favorite Skylanders (from any previous game) and use the brand new Trap Masters to bring the fight to Kaos! (TABLET STARTER PACK REQUIRED)\n\nOver 40 CAPTURABLE VILLAINS\n\n* Using the brand new Traps snatch defeated enemies and turn them into allies, using their incredible power to wreak havoc on the enemies of the Skylands. (TABLET STARTER PACK REQUIRED)\n\nCONTROLLER SUPPORT\n\n* Use Touch Screen Controls or the Skylanders Trap Team™ Wireless Bluetooth® Game Controller or connect your iPad-supported Game Controller for epic console play right on your tablet!\n\n* Second Controller required for 2 Player Co-Op play.\n\n__________________________________\n\nCheck for the latest supported devices at: http://www.skylanders.com/devices\n\n__________________________________\n\nBe sure to check out Skylanders Trap Team™ updates in Skylanders Lost Islands™ and Skylanders Collection Vault™, also on the AppStore!\n\n©2012-2014 Activision Publishing, Inc. SKYLANDERS TRAP TEAM, TRAPTANIUM, TRAPTANIUM PORTAL, BRING THE SKYLANDERS TO LIFE, SKYLANDERS LOST ISLANDS, SKYLANDERS COLLECTION VAULT and ACTIVISION are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their owners.",
+      "name": "Skylanders Trap Team (iPhone)",
+      "screenshotURLs": [
+        "https://image.winudf.com/v2/image/Y29tLmFjdGl2aXNpb24uc2t5bGFuZGVycy50cmFwdGVhbV9zY3JlZW5fMF8xNTI2MDE3NjQ4XzAwNQ/screen-0.webp?fakeurl=1&type=.webp",
+        "https://image.winudf.com/v2/image/Y29tLmFjdGl2aXNpb24uc2t5bGFuZGVycy50cmFwdGVhbV9zY3JlZW5fMV8xNTI2MDE3NjQ5XzA0Ng/screen-1.webp?fakeurl=1&type=.webp",
+        "https://image.winudf.com/v2/image/Y29tLmFjdGl2aXNpb24uc2t5bGFuZGVycy50cmFwdGVhbV9zY3JlZW5fMl8xNTI2MDE3NjUwXzAzOA/screen-2.webp?fakeurl=1&type=.webp",
+        "https://image.winudf.com/v2/image/Y29tLmFjdGl2aXNpb24uc2t5bGFuZGVycy50cmFwdGVhbV9zY3JlZW5fM18xNTI2MDE3NjUxXzA5Mg/screen-3.webp?fakeurl=1&type=.webp",
+        "https://image.winudf.com/v2/image/Y29tLmFjdGl2aXNpb24uc2t5bGFuZGVycy50cmFwdGVhbV9zY3JlZW5fNF8xNTI2MDE3NjUzXzA0NA/screen-4.webp?fakeurl=1&type=.webp",
+        "https://image.winudf.com/v2/image/Y29tLmFjdGl2aXNpb24uc2t5bGFuZGVycy50cmFwdGVhbV9zY3JlZW5fNV8xNTI2MDE3NjU2XzAyMQ/screen-5.webp?fakeurl=1&type=.webp",
+        "https://image.winudf.com/v2/image/Y29tLmFjdGl2aXNpb24uc2t5bGFuZGVycy50cmFwdGVhbV9zY3JlZW5fNl8xNTI2MDE3NjU3XzAyNg/screen-6.webp?fakeurl=1&type=.webp",
+        "https://image.winudf.com/v2/image/Y29tLmFjdGl2aXNpb24uc2t5bGFuZGVycy50cmFwdGVhbV9zY3JlZW5fN18xNTI2MDE3NjU3XzAxMQ/screen-7.webp?fakeurl=1&type=.webp"
+      ],
+      "size": 500184796,
+      "subtitle": "BRING THE SKYLANDERS TO LIFE!™ TRAP AND PLAY AS VILLAINS!",
+      "tintColor": "375eb8",
+      "version": "1.2.2",
+      "versionDate": "2024-06-02T14:00:00-07:00",
+      "versionDescription": "BRING THE SKYLANDERS TO LIFE!™TRAP AND PLAY AS VILLAINS! Download the latest version of Skylanders Trap Team™ 1.2.2 to enjoy new features and updates immediately!"
+    },
+    {
+      "beta": false,
+      "bundleIdentifier": "com.activision.skylanders.superchargers",
+      "developerName": "Vicarious Visions",
+      "downloadURL": "https://archive.org/download/skylanders-trapteam-superchargers-ios-64bit-ipas/SuperChargers/Skylanders%20SuperChargers%20v1.2.2.ipa",
+      "iconURL": "https://img.tapimg.net/market/images/c78e589d6c62519db10d6b44187134d8.jpg/appicon_m?t=1",
+      "localizedDescription": "***Note: Game requires iPad (3rd Gen), iPad (4th Gen), iPad Air, iPad Air 2, iPad Mini 3, iPad Mini 2 or iPad Mini, iPhone 6, iPhone 6 Plus, iPhone 5s, iPhone 5/5C, iPod Touch 6, iOS 8.4 or higher recommended, 3GB minimum storage, and Wi-Fi Connection. iPad 2 or earlier not supported. Online features not supported on iPad (3rd Gen), iPad (4th Gen), iPad mini, and iPhone 5/5C.\n\nDRIVE EVIL CRAZY\nGet the full Skylanders® SuperChargers console video game experience on your iPad®, iPhone® and iPod touch®. Now you can Bring the Skylanders to Life® as well as Fly, Drive and Dive through Skylands. Experience the ultimate adventure for FREE with TWO Digital Skylanders SuperChargers: Instant Spitfire and Instant Hot Streak. Then continue your adventure by buying the STARTER PACK or purchase the full story adventure digitally through In-App Purchase.\n• Embark on an All New Wild Adventure\n• Fly, Drive and Dive Through Skylands with 3 Different Vehicle Types: Land, Sea & Sky\n• Ride Fast & Fully Armed in the New Skylanders Vehicles\n• Use SuperChargers to Modify Vehicle Parts to Boost Powers and Performance\n• Play with Friends in the NEW Online Multiplayer Race and Co-Op Modes\n• Challenge Yourself with Fun Mini Games\n\nSTARTER PACK (available at your local or online retailer)\nBuy the all new Skylanders SuperChargers STARTER PACK for iPad®, iPhone® and iPod touch® to continue the adventure with your Skylanders toys. The STARTER PACK includes:\n• Full Adventure mode of the game to play on-the-go as well as 1 digital character and 1 digital vehicle – Instant Spitfire and Instant Hot Streak\n• Wireless Bluetooth® Portal of Power™\n• Wireless Bluetooth® Game Controller\n• Two Skylanders Figures – Spitfire and Sure Shot Stealth Elf\n• One Skylander Vehicle – Hot Streak\n• One Collection Poster\n• 5 AAA Batteries\n\nDIGITAL OPTIONS (available through In-App Purchase)\n• Skylanders Academy (includes access to racing tracks, Skystones, elemental zones, and more!)\n• Full game (includes Skylanders Academy)\n• Sea Pack (includes Instant Dive-Clops Skylander and Instant Dive Bomber vehicle)\n• Sky Pack (includes Instant Super Shot Stealth Elf Skylander and Instant Stealth Stinger vehicle)\n• Land Racing Pack (includes 2 land racing tracks)\n• Sea Racing Pack (includes 2 sea racing tracks)\n• Sky Racing Pack (includes 2 sky racing tracks)\n\nCOMPATIBLE WITH OVER 300 UNIQUE SKYLANDERS TOYS\n• Play as your favorite Skylanders (from any previous game) and use the new SuperChargers and vehicles to defeat Kaos and save Skylands! (STARTER PACK REQUIRED)\n\nCONTROLLER SUPPORT\n• Use Touch Screen Controls or the Skylanders® SuperChargers Wireless Bluetooth® Game Controller or connect your iOS-supported Game Controller for epic console play right on your iPad®, iPhone® or iPod touch®!\n___________________________________\nCheck for the latest supported devices at: 🔗link\n¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯\nSkylanders® SuperChargers is free-to-play, but some in-game content can be purchased using real money. If you don’t want to use this feature, please disable in-app purchases. For online safety tips, visit Skylanders.com/parents.\n\n© 2015 Activision Publishing, Inc. SKYLANDERS, SKYLANDERS SUPERCHARGERS, BRING THE SKYLANDERS TO LIFE, PORTAL OF POWER and ACTIVISION are trademarks of Activision Publishing, Inc. All other trademarks and trade names are the properties of their owners. Activision makes no guarantee regarding the availability of online play or features and may modify or discontinue online services in its discretion without notice, including for example, ceasing online service for economic reasons due to a limited number of players continuing to make use of the service over time. Downloading the game and using the software constitutes acceptance of the Software License Agreement available at 🔗link",
+      "name": "Skylanders Superchargers",
+      "screenshotURLs": [
+        "https://img.tapimg.net/market/images/12d829deb41206e6553f60f8561589f1.jpg?imageView2/2/w/720/h/720/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+        "https://img.tapimg.net/market/images/45afc96c115ae06cab20824894fca31f.jpg?imageView2/2/w/720/h/720/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+        "https://img.tapimg.net/market/images/1968e740ddebe5a67ba312914d661255.jpg?imageView2/2/w/720/h/720/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+        "https://img.tapimg.net/market/images/aae90cd953af360bdd2ac63c3acf5f75.jpg?imageView2/2/w/720/h/720/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+        "https://img.tapimg.net/market/images/c9fe480729b2e2802637d94def2eee81.jpg?imageView2/2/w/720/h/720/q/80/format/jpg/interlace/1/ignore-error/1&t=1"
+      ],
+      "size": 1262914698,
+      "subtitle": "DRIVE EVIL CRAZY",
+      "tintColor": "fc4719",
+      "version": "1.2.2",
+      "versionDate": "2024-06-01T14:00:00-07:00",
+      "versionDescription": "• New 50% OFF vehicle/character combo pack of the day!"
+    }
+  ],
+  "identifier": "com.example.source",
+  "name": "Sky-Source",
+  "news": [
+    {
+      "appID": "com.activision.skylanders.superchargers",
+      "caption": "Original AppStore page recreation now online",
+      "date": "2025-01-01",
+      "identifier": "sky-source",
+      "imageURL": "https://imageio.forbes.com/blogs-images/andyrobertson/files/2015/06/Skylanders_SuperChargers_Key_Art_1433160843-1940x1552.jpg?format=jpg&width=1440",
+      "notify": false,
+      "tintColor": "fc4719",
+      "title": "Superchargers available now!"
+    }
+  ],
+  "userInfo": {}
+}
