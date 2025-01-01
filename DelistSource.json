@@ -2,20 +2,6 @@
   "apps": [
     {
       "beta": false,
-      "bundleIdentifier": "com.rileytestut.AltStore.Beta",
-      "developerName": "Riley Testut",
-      "downloadURL": "https://f000.backblazeb2.com/file/altstore/altstore-beta.ipa",
-      "iconURL": "https://www.uk-anime.net/images/bocchi1.png",
-      "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
-      "name": "Test",
-      "screenshotURLs": [
-        "https://www.uk-anime.net/images/bocchi1.png",
-        "https://www.uk-anime.net/images/bocchi1.png",
-        "https://www.uk-anime.net/images/bocchi1.png",
-        "https://www.uk-anime.net/images/bocchi1.png",
-        "https://www.uk-anime.net/images/bocchi1.png"
-      },
-      "beta": false,
       "bundleIdentifier": "com.activision.skylanders.trapteam",
       "developerName": "Toys for Bob",
       "downloadURL": "https://archive.org/download/skylanders-trapteam-superchargers-ios-64bit-ipas/Trap%20Team/Trap%20Team%20v1.2.2%20%28iPhone%29.ipa",
