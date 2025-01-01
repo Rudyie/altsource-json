@@ -1,5 +1,6 @@
 DelistStore
-is a WIP AltStore/SideStore source intended to restore and preserve older delisted iOS AppStore pages, alongside some iOS homebrew utilities
+
+A WIP AltStore/SideStore source intended to restore and preserve older delisted iOS AppStore pages, alongside some iOS homebrew utilities
 
 3 main branches of this repo exist to allow testing easily, so allow me to explain each's use: 
 
