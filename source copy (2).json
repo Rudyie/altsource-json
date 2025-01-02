@@ -27,6 +27,27 @@
     },
     {
       "beta": false,
+      "bundleIdentifier": "40ccc2b10c984097",
+      "developerName": "EZFN",
+      "downloadURL": "https://cdn-test.ezfn.dev/IPAs/Fortnite+Release-7.40-CL-5011364-V2.ipa",
+      "iconURL": "https://media.pocketgamer.com/artwork/na-qxvi/fortnite-icon.png",
+      "localizedDescription": "Works with: iPhone SE, 6S, 7, 8, X, XS, XR; iPad Mini 4, Air 2, 2017, 2018, Pro\nFortnite DOES NOT support: iPhone 5S, 6, 6 Plus; iPad Air, Mini 2, Mini 3, iPod Touch\n\nFortnite has come to mobile! Squad up and compete to be the last one standing in Battle Royale, or use your imagination to build your dream Fortnite in Creative.\n\nRequires an internet connection and iOS 11.\n\nOn mobile, Fortnite is the same game you know from PlayStation 4, Xbox One, PC, and Mac. Same map, same gameplay, same weekly updates. Build your fort as you battle to be the last one standing. Jump in and squad up with friends around the world or in the same room!\n\nPowered by Unreal Engine 4.\n\nCREATIVE - Design games with friends and build your dream Fortnite experience. Your island, your friends, your rules. The most exciting and imaginative islands will be featured on the “The Block” in the Battle Royale map.\n\nBUILD & DESTROY - Shape the battlefield by building your own cover. Opponent hiding behind a wall? Take out their cover to get the edge.\n\nGEAR UP - Board the battle bus and drop in on your favorite zone. Gather resources, collect gear, and battle your opponents! Last one standing wins.\n\nSQUAD UP WITH FRIENDS - Team up with your friends around the world or in the same room!\n\nEPIC UPDATES & EVENTS - Weekly updates constantly fuel the fun. New gameplay modes, serious and insane new looks for your avatar, new weapons and items….Fortnite is always expanding.\n\nCONSOLE GAMING ON THE GO - Play the full game anytime, anywhere. Complete quests on the go, progress your Battle Pass, and more.",
+      "name": "Fortnite (EZFN)",
+      "screenshotURLs": [
+        "https://web.archive.org/web/20190205123524if_/https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/59/fd/d0/59fdd0a8-9fba-8c94-e403-887a36ae5e11/mzl.bkjzkqwu.png/651x0w.jpg",
+        "https://web.archive.org/web/20190205123524/https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/6e/8b/d5/6e8bd52d-b08c-3a72-549b-9d8ce843ab06/mzl.prwfrshl.png/626x0w.jpg",
+        "https://web.archive.org/web/20190205123529/https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/a2/79/bb/a279bb6c-a762-563b-dab8-a52d0ef7ac17/pr_source.png/626x0w.jpg",
+        "https://web.archive.org/web/20190205123529/https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/7d/32/bc7d329b-7c0c-4806-b146-3a5ac8475f9b/mzl.borprvuv.jpg/626x0w.jpg"
+      ],
+      "size": 150000000,
+      "subtitle": "Battle Royale",
+      "tintColor": "59d2f7",
+      "version": "7.40.2",
+      "versionDate": "2018-12-06T14:00:00-07:00",
+      "versionDescription": "FREE BATTLE PASS - Everyone who completes 13 free Overtime Challenges by February 27 will receive the upcoming Season 8 Battle Pass for FREE!\n\nCODE BLUE - The new Cobalt pack is in the Store now for a limited time!\n\nMOBILE IMPROVEMENTS - We’ve continued to add stability, bug fixes, and new features including a new edit button!\n\nENVIRONMENTAL CAMPFIRES - More than just looks...Gather around and tell tales of your adventures while you heal with your friends!"
+    }
+    {
+      "beta": false,
       "bundleIdentifier": "com.activision.skylanders.superchargers",
       "developerName": "Vicarious Visions",
       "downloadURL": "https://archive.org/download/skylanders-trapteam-superchargers-ios-64bit-ipas/SuperChargers/Skylanders%20SuperChargers%20v1.2.2.ipa",
