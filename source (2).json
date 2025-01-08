@@ -5,8 +5,6 @@
     "website": "https://example.com",
     "headerURL": "https://example.com/source_header.png",
     "tintColor": "#4185A9",
-    "featuredApps": [
-        ""
         },
          "apps": [
     {
