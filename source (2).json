@@ -1,0 +1,48 @@
+    "name": "Skylanders Store Archive"
+    "subtitle": "Archive of the 64 bit Skylanders mobile games AppStore pages."
+    "description": "Welcome to my source! Here you'll find all preserved Skylanders apps.",
+    "iconURL": "https://example.com/source_icon.png",
+    "website": "https://example.com",
+    "headerURL": "https://example.com/source_header.png",
+    "tintColor": "#4185A9",
+    "featuredApps": [
+        ""
+        },
+         "apps": [
+    {
+        "name": "Skylanders Superchargers",
+        "bundleIdentifier": "com.activision.skylanders.superchargers",
+        "marketplaceID": "12345678",
+        "developerName": "Vicarious Visions",
+        "subtitle": "DRIVE EVIL CRAZY",
+        "localizedDescription": "This is an awesome app only available on AltStore.",
+        "iconURL": "https://img.tapimg.net/market/images/c78e589d6c62519db10d6b44187134d8.jpg/appicon_m?t=1",
+        "tintColor": "#F54F32",
+        "category": "games",
+        "screenshots": [
+            "https://img.tapimg.net/market/images/12d829deb41206e6553f60f8561589f1.jpg?imageView2/2/w/720/h/720/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+            "https://img.tapimg.net/market/images/45afc96c115ae06cab20824894fca31f.jpg?imageView2/2/w/720/h/720/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+            "https://img.tapimg.net/market/images/1968e740ddebe5a67ba312914d661255.jpg?imageView2/2/w/720/h/720/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+            "https://img.tapimg.net/market/images/aae90cd953af360bdd2ac63c3acf5f75.jpg?imageView2/2/w/720/h/720/q/80/format/jpg/interlace/1/ignore-error/1&t=1",
+            "https://img.tapimg.net/market/images/c9fe480729b2e2802637d94def2eee81.jpg?imageView2/2/w/720/h/720/q/80/format/jpg/interlace/1/ignore-error/1&t=1"
+        ],
+"versions": [
+  {
+    "version": "1.2.2",
+    "buildVersion": "1.2.2",
+    "date": "2023-03-30",
+    "localizedDescription": "Latest Version!",
+    "downloadURL": "https://archive.org/download/skylanders-trapteam-superchargers-ios-64bit-ipas/SuperChargers/Skylanders%20SuperChargers%20v1.2.2.ipa",
+    "size": 79821,
+    "minOSVersion": "11.0",
+    "maxOSVersion": ""
+  },
+    "appPermissions": {
+  "entitlements": [
+    "com.apple.security.application-groups",
+    "com.apple.developer.siri"
+  ],
+  "privacy": {
+    "NSBluetoothAlwaysUsageDescription": "App uses Bluetooth to connect to the portal and controller.",
+  }
+},
